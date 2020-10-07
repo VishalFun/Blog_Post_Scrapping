@@ -7,7 +7,10 @@
 <strong>Step:-</strong>
 
 <p>1. Open CMD in current directory.</p>
-<p>2. Run cmd scrapy crawl blog_scrape.</p>
+<p>2. Run cmd <strong>scrapy crawl blog_scrape</strong> to scrape qoutes from the site.</p>
+<p>3.To save output in json file run <strong>scrapy crawl blog_scrape -o filename.json
+</strong></p>
+
 
 
 
