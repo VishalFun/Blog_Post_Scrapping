@@ -7,7 +7,7 @@
 <strong>Step:-</strong>
 
 <p>1. Open CMD in current directory.</p>
-<p>2. </p>
+<p>2. Run cmd scrapy crawl blog_scrape.</p>
 
 
 
